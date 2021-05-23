@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PeakShaftCorporation
-This account will be used to store data.
+This account is the official PeakShaft Corporation GitHub Account.
 
 <!---
 PeakShaftCorporation/PeakShaftCorporation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
